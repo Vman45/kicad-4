@@ -5,4 +5,16 @@ D SRAM 5.0V 512K × 8 CMOS SRAM SOJ36 400mil
 K 512kB SRAM
 $ENDCMP
 #
+$CMP HM628128LP-10
+D SRAM 5.0V 128k × 8 CMOS SRAM DIP-32 600 mil
+K 128kB SRAM
+F https://pdf1.alldatasheet.com/datasheet-pdf/view/167841/HITACHI/HM628128LP-10.html
+$ENDCMP
+#
+$CMP HM628128_Series
+D SRAM 5.0V 128K × 8 CMOS SRAM DIP
+K 128kB SRAM
+F https://pdf1.alldatasheet.com/datasheet-pdf/view/167841/HITACHI/HM628128LP-10.html
+$ENDCMP
+#
 #End Doc Library
