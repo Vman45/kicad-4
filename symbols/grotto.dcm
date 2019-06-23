@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AS7C4096A-12JIN
+D SRAM 5.0V 512K × 8 CMOS SRAM SOJ36 400mil
+K 512kB SRAM
+$ENDCMP
+#
+#End Doc Library
