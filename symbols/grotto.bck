@@ -5,6 +5,12 @@ D SRAM 5.0V 512K × 8 CMOS SRAM SOJ36 400mil
 K 512kB SRAM
 $ENDCMP
 #
+$CMP ATF22V10
+D ATF 24-pin Electrically erasable programmable logic device (EE PLD)
+K logic programmable GAL
+F http://ww1.microchip.com/downloads/en/DeviceDoc/doc0735.pdf
+$ENDCMP
+#
 $CMP HM628128LP-10
 D SRAM 5.0V 128k × 8 CMOS SRAM DIP-32 600 mil
 K 128kB SRAM
@@ -15,6 +21,12 @@ $CMP HM628128_Series
 D SRAM 5.0V 128K × 8 CMOS SRAM DIP
 K 128kB SRAM
 F https://pdf1.alldatasheet.com/datasheet-pdf/view/167841/HITACHI/HM628128LP-10.html
+$ENDCMP
+#
+$CMP PlutoDecoder
+D ATF 24-pin Electrically erasable programmable logic device (EE PLD)
+K logic programmable GAL
+F http://ww1.microchip.com/downloads/en/DeviceDoc/doc0735.pdf
 $ENDCMP
 #
 #End Doc Library
