@@ -29,4 +29,10 @@ K logic programmable GAL
 F http://ww1.microchip.com/downloads/en/DeviceDoc/doc0735.pdf
 $ENDCMP
 #
+$CMP R_Network08_SMD
+D 8 resistor network, bussed resistors, small symbol
+K R network star-topology
+F https://industrial.panasonic.com/cdbs/www-data/pdf/AOC0000/AOC0000C12.pdf
+$ENDCMP
+#
 #End Doc Library
